@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.3abd073b.css",
-    "main.js": "/static/js/main.bfe3875c.js",
+    "main.css": "/static/css/main.9a3fe9a5.css",
+    "main.js": "/static/js/main.03503d6f.js",
     "static/js/787.1ed0c42c.chunk.js": "/static/js/787.1ed0c42c.chunk.js",
     "static/media/photo.jpg": "/static/media/photo.70ff1136f7c2703e292a.jpg",
     "static/media/museu-nacional.jpg": "/static/media/museu-nacional.1f5d4811d38e55677e9a.jpg",
@@ -12,12 +12,12 @@
     "static/media/taskhub.jpg": "/static/media/taskhub.aafe32d50061029ab49b.jpg",
     "static/media/avatar.png": "/static/media/avatar.c93fed099c9adf90a7f1.png",
     "index.html": "/index.html",
-    "main.3abd073b.css.map": "/static/css/main.3abd073b.css.map",
-    "main.bfe3875c.js.map": "/static/js/main.bfe3875c.js.map",
+    "main.9a3fe9a5.css.map": "/static/css/main.9a3fe9a5.css.map",
+    "main.03503d6f.js.map": "/static/js/main.03503d6f.js.map",
     "787.1ed0c42c.chunk.js.map": "/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.3abd073b.css",
-    "static/js/main.bfe3875c.js"
+    "static/css/main.9a3fe9a5.css",
+    "static/js/main.03503d6f.js"
   ]
 }
