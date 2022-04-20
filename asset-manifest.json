@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.9a3fe9a5.css",
-    "main.js": "/static/js/main.a33c6658.js",
+    "main.js": "/static/js/main.abeae385.js",
     "static/js/787.1ed0c42c.chunk.js": "/static/js/787.1ed0c42c.chunk.js",
     "static/media/photo.jpg": "/static/media/photo.70ff1136f7c2703e292a.jpg",
     "static/media/museu-nacional.jpg": "/static/media/museu-nacional.1f5d4811d38e55677e9a.jpg",
@@ -13,11 +13,11 @@
     "static/media/avatar.png": "/static/media/avatar.c93fed099c9adf90a7f1.png",
     "index.html": "/index.html",
     "main.9a3fe9a5.css.map": "/static/css/main.9a3fe9a5.css.map",
-    "main.a33c6658.js.map": "/static/js/main.a33c6658.js.map",
+    "main.abeae385.js.map": "/static/js/main.abeae385.js.map",
     "787.1ed0c42c.chunk.js.map": "/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.9a3fe9a5.css",
-    "static/js/main.a33c6658.js"
+    "static/js/main.abeae385.js"
   ]
 }
